@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript , CSS,C**
 
-- 👨‍💻 All of my projects are available at [https://github.com/daulatsingh1203](https://github.com/daulatsingh1203)
+- 👨‍💻 All of my projects are available at [https://github.com/Daulat1249](https://github.com/Daulat1249)
 
 - 📝 I regularly write articles on [@DaulatSingh1249](@DaulatSingh1249)
 
