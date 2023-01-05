@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daulat Singh</h1>
 <h3 align="center">I am a passionate undergraduate student who loves contributing to open source🦚</h3>
 
-![Header](C:/Users/LENOVO/Downloads/github-header-image.png)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daulat1249&label=Profile%20views&color=0e75b6&style=flat" alt="daulatsingh1203" /> </p>
 
 <p align="left"> <a href="https://twitter.com/daulatsingh1249" target="blank"><img src="https://img.shields.io/twitter/follow/daulatsingh1249?logo=twitter&style=for-the-badge" alt="daulatsingh1249" /></a> </p>
