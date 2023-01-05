@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/daulatsingh1249" target="blank"><img src="https://img.shields.io/twitter/follow/daulatsingh1249?logo=twitter&style=for-the-badge" alt="daulatsingh1249" /></a> </p>
 
-<img align="center" alt="daulatsingh1203" width="400" src="https://cdn.dribbble.com/users/934149/screenshots/14906513/media/a67557775535a7650548b65b4ad18cc8.gif" />
+<img align="right" alt="daulatsingh1203" width="400" src="https://cdn.dribbble.com/users/934149/screenshots/14906513/media/a67557775535a7650548b65b4ad18cc8.gif" />
 
 <p align="center"> 
 <img src="assests/nightlife.gif" /> </p>
