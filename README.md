@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/daulatsingh1249" target="blank"><img src="https://img.shields.io/twitter/follow/daulatsingh1249?logo=twitter&style=for-the-badge" alt="daulatsingh1249" /></a> </p>
 
-<img align="right" alt="daulatsingh1203" width="400" src="https://cdn.dribbble.com/users/934149/screenshots/14906513/media/a67557775535a7650548b65b4ad18cc8.gif" />
+<img align="center" alt="daulatsingh1203" width="400" src="https://cdn.dribbble.com/users/934149/screenshots/14906513/media/a67557775535a7650548b65b4ad18cc8.gif" />
 
 <p align="center"> 
 <img src="assests/nightlife.gif" /> </p>
@@ -71,13 +71,7 @@
 -->
 
 
-<br>
-
-&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![HyunCafe's Github Activity](https://github-readme-stats.vercel.app/api?username=Daulat1249&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=Daulat1249&theme=Sora-iro&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA)](https://git.io/streak-stats)
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daulat1249&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daulat1249&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daulat1249&theme=github_dark)|
 
 
 <br>
@@ -90,3 +84,4 @@
 <img align="center" src="assests/loficity.gif" />
 <br>
 </p>
+
