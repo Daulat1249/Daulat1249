@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daulat Singh</h1>
 <h3 align="center">I am a passionate undergraduate student who loves contributing to open source🦚</h3>
 
+![header](https://twitter.com/DaulatSingh1249/status/1611084748956512256?s=20&t=u3W_IjRrbHGzlKvKkNX5Sw)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daulat1249&label=Profile%20views&color=0e75b6&style=flat" alt="daulatsingh1203" /> </p>
 
