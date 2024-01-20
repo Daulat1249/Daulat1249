@@ -2,16 +2,6 @@
 <h3 align="center">I am a passionate undergraduate student who loves contributing to open source🦚</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Daulat1249&label=Profile%20views&color=0e75b6&style=flat" alt="daulatsingh1203" /> </p>
-
-<p align="left"> <a href="https://twitter.com/daulatsingh1249" target="blank"><img src="https://img.shields.io/twitter/follow/daulatsingh1249?logo=twitter&style=for-the-badge" alt="daulatsingh1249" /></a> </p>
-
-<img align="right" alt="daulatsingh1203" width="400" src="https://cdn.dribbble.com/users/934149/screenshots/14906513/media/a67557775535a7650548b65b4ad18cc8.gif" />
-
-<p align="center"> 
-<img src="assests/nightlife.gif" /> </p>
-<br>
-
 <p align="center"> 
 <strong> Actively Learning </strong>
 </p>
@@ -74,10 +64,6 @@
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daulat1249&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daulat1249&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daulat1249&theme=github_dark)|
 
-
-<br>
-
-[![Daulat's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daulat1249&custom_title=Daulat's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
