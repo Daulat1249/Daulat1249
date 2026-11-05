@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 870 155" width="870" height="155">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; rx: 10; }
+    .header { fill: #161b22; }
+    .text { font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'Courier New', monospace; font-size: 14px; }
+    .title { font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; font-size: 12px; fill: #8b949e; }
+    .prompt { fill: #7ee787; font-weight: bold; }
+    .path { fill: #79c0ff; font-weight: bold; }
+    .cmd { fill: #f0f6fc; }
+    .muted { fill: #8b949e; }
+    .link { fill: #58a6ff; font-weight: bold; text-decoration: underline; }
+    .live-text { fill: #3fb950; font-weight: bold; }
+    
+    /* Blinking cursor */
+    .cursor {
+      fill: #58a6ff;
+      animation: blink 1s step-end infinite;
+    }
+
+    /* Output fade-in */
+    .output {
+      opacity: 0;
+      animation: fadeIn 0.5s ease-out 0.6s forwards;
+    }
+
+    /* Pulsing live dot */
+    .pulse-ring {
+      fill: none;
+      stroke: #3fb950;
+      stroke-width: 2;
+      transform-origin: 34px 122px;
+      animation: pulse 1.8s ease-out infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+    @keyframes pulse {
+      0% { transform: scale(1); opacity: 0.9; }
+      100% { transform: scale(2.4); opacity: 0; }
+    }
+  </style>
+
+  <!-- Terminal Window Background -->
+  <rect class="bg" x="1" y="1" width="868" height="153" rx="10" />
+  
+  <!-- Terminal Header Bar -->
+  <path class="header" d="M 1 11 A 10 10 0 0 1 11 1 L 859 1 A 10 10 0 0 1 869 11 L 869 34 L 1 34 Z" />
+  <line x1="1" y1="34" x2="869" y2="34" stroke="#30363d" stroke-width="1" />
+
+  <!-- Window Control Dots -->
+  <circle cx="22" cy="17" r="6" fill="#ff5f56" />
+  <circle cx="42" cy="17" r="6" fill="#ffbd2e" />
+  <circle cx="62" cy="17" r="6" fill="#27c93f" />
+
+  <!-- Window Title -->
+  <text x="435" y="22" text-anchor="middle" class="title">⚡ daulat@github: ~/portfolio (zsh)</text>
+
+  <!-- Line 1: Command with Icon and Inline Blinking Cursor -->
+  <text x="24" y="65" class="text">
+    <tspan class="prompt">🚀 daulat@github</tspan>
+    <tspan class="path"> ~ </tspan>
+    <tspan class="prompt">$</tspan>
+    <tspan class="cmd"> ./open-portfolio.sh --status </tspan>
+    <tspan class="cursor">█</tspan>
+  </text>
+
+  <!-- Line 2 & 3: Portfolio Details and Live Indicator -->
+  <g class="output">
+    <text x="24" y="95" class="text">
+      <tspan class="muted">├─</tspan>
+      <tspan class="cmd"> 🌐 Personal Portfolio + Projects : </tspan>
+      <tspan class="link">https://daulat1249.github.io/</tspan>
+    </text>
+
+    <!-- Pulsing Live Status Indicator -->
+    <circle class="pulse-ring" cx="34" cy="122" r="5" />
+    <circle cx="34" cy="122" r="5" fill="#3fb950" />
+    <text x="50" y="127" class="text">
+      <tspan class="live-text">STATUS: 200 OK (LIVE)</tspan>
+      <tspan class="muted"> │ Click anywhere on this terminal to launch ↗</tspan>
+    </text>
+  </g>
+</svg>
