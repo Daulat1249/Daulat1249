@@ -11,7 +11,4 @@
 <a href="https://daulat1249.github.io/" target="_blank">
   <img src="./portfolio-daulat-svg.svg" width="870" alt="daulat@github ~ $ ./open-portfolio.sh" />
 </a>
-
-<br><br>
-
 </div>
